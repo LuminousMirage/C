@@ -1,2 +1,2 @@
 # c
-Wellcome to my c repository
+All c repository
