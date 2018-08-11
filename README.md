@@ -1,2 +1,2 @@
 # c
-All c repository
+c repository
